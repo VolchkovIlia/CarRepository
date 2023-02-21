@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepository.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepository.AssemblyInfo.cs
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepository.csproj.CoreCompileInputs.cache

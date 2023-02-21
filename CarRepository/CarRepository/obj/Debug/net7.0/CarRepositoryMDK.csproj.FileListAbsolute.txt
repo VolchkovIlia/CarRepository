@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CarRepository\CarRepository\bin\Debug\net7.0\CarRepositoryMDK.exe
+C:\Users\User\source\repos\CarRepository\CarRepository\bin\Debug\net7.0\CarRepositoryMDK.deps.json
+C:\Users\User\source\repos\CarRepository\CarRepository\bin\Debug\net7.0\CarRepositoryMDK.runtimeconfig.json
+C:\Users\User\source\repos\CarRepository\CarRepository\bin\Debug\net7.0\CarRepositoryMDK.dll
+C:\Users\User\source\repos\CarRepository\CarRepository\bin\Debug\net7.0\CarRepositoryMDK.pdb
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.AssemblyInfo.cs
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.dll
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\refint\CarRepositoryMDK.dll
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.pdb
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\CarRepositoryMDK.genruntimeconfig.cache
+C:\Users\User\source\repos\CarRepository\CarRepository\obj\Debug\net7.0\ref\CarRepositoryMDK.dll
